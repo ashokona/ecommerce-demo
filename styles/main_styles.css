@@ -317,6 +317,9 @@ section
 	z-index: 1;
 	background: #FFFFFF;
 }
+.header_container_light{
+  background: #90CAF9;
+}
 .header_content
 {
 	width: 100%;
@@ -809,6 +812,9 @@ section
 	height: 950px;
 	background: #FFFFFF;
 	z-index: 2;
+}
+.home_light{
+  background: #90CAF9;
 }
 .home_slider_container
 {
@@ -1437,4 +1443,15 @@ section
 .footer_social ul li a i:hover
 {
 	color: #FFFFFF;
+}
+.cart{
+  border: 2px solid #e95a5a;
+  margin: 4px;
+  padding: 10px;
+  border-radius: 27px;
+  color: black;
+}
+
+.cart i{
+  color:black;
 }
